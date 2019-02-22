@@ -1,11 +1,13 @@
 # 5pm-findtheroommate_REVIEWS
 
-  1. A summary of the features of the product as you understood them, and what you liked or thought could be improved about each
-    * Current version has users registration and login
+  1. A summary of the features of the product as you understood them, and what you liked or thought could be improved about each  
+  
+  * Current version has users registration and login
       * Incorporate Umail varification
       * hash password instead of store them straight to database
-    * User profile and ability to update profile: Ability to upload photos in profile
-    * Make posts and see posts
+  * User profile and ability to update profile
+    * Ability to upload photos in profile
+  * Make posts and see posts
       * make post visually separate
       * edit and delete post function
       * incorpoate hyperlink to other social media or a clickable icon to social media or some other way to allow user contact poster
