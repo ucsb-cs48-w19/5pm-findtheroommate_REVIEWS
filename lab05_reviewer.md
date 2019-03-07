@@ -1,11 +1,12 @@
 # MVP Reviews
 ## Participants
 * Reviwer Team: 5pm-buy-my-clothes
-** Reviewer: Michelle
-** Reviewer assistant: Yinon
+  * Reviewer: Michelle
+  * Reviewer assistant: Yinon
 
-* Reviewee: Bella
-* Reviewee assistant: Rain
+* Reviewee Team: 5pm-findtheroommate
+  * Reviewee: Bella
+  * Reviewee assistant: Rain
 
 ## Summary of Features and Feedback
 * A web app for UCSB students to find roommates at a location away from home for summer internships, traveling, etc. 
