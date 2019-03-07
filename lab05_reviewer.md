@@ -1,8 +1,8 @@
 # MVP Reviews
 ## Participants
-Reviwer Team: 5pm-buy-my-clothes
-* Reviewer: Michelle
-* Reviewer assistant: Yinon
+* Reviwer Team: 5pm-buy-my-clothes
+** Reviewer: Michelle
+** Reviewer assistant: Yinon
 
 * Reviewee: Bella
 * Reviewee assistant: Rain
