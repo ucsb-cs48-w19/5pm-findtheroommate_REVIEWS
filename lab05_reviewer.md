@@ -16,7 +16,7 @@
 * User verification can be improved by adding third-party oauth or checking that users can only sign in with a valid UCSB email address.
 * The post page can be improved by adding input fields for housing dates and location.
 * Can consider adding features to allow users to edit/delete posts.
-* The view psot page can be improved by adding comment section, social media links to learn more about the potential roommate, or a "contact if interested" feature.
+* The view post page can be improved by adding comment section, social media links to learn more about the potential roommate, or a "contact if interested" feature.
 * In general, the web app can be improved by adding more CSS and Javascript to make it look prettier.
 
 ## Kanban Board Feedback
